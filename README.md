@@ -1,5 +1,5 @@
-## House Price prediction
-# Machine Learning model to predict house price using linear regression.
+# House Price prediction
+## Machine Learning model to predict house price using linear regression.
 Here you are given dataset which contains information about houses prices in the suburbs of chicago
 your task is first analysis the data ,and then to apply a regression model to it.
 
